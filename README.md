@@ -1,1 +1,1 @@
-# KhanAcademy-Clone
+"LAB 06 SCD 22L7902" 
